@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "AndyEveritt",
+      "id": 38423143,
+      "comment_id": 4127436564,
+      "created_at": "2026-03-25T15:17:02Z",
+      "repoId": 905215164,
+      "pullRequestNo": 98
+    }
+  ]
 }
